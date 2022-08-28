@@ -1,0 +1,15 @@
+:root {
+  --bg-color: #171923;
+  --bg-light: #232535;
+  --font-color: #c5cddb;
+  --font-light: #ffffff;
+}
+
+
+.lightMode {
+  --bg-color: #E8E6DC;
+  --bg-light: #DCDACA;
+  --font-color: #3D3D3D;
+  --font-light: #202020;
+}
+
